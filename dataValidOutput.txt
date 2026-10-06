@@ -3,52 +3,159 @@
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING SECOND MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING BOTH MATRICES
+1 1 0 
+1 1 0 
+
+0 1 
+0 1 
+0 1 
+
+	Unable to add Matrices: Matrices have different sizes.
 
 
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING SECOND MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING BOTH MATRICES
+0 1 1 0 
+0 1 1 0 
+0 1 1 1 
+
+0 0 1 1 
+1 1 0 1 
+1 0 0 1 
+
+0 1 2 1 
+1 2 1 1 
+1 1 1 2 
+
 
 
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+	Matrix is reflexive
+	Matrix is not symmetric
+1 1 0 
+0 1 0 
+1 0 1 
+
 
 	PROCESSING SECOND MATRIX
+	Matrix is not reflexive
+	Matrix is symmetric
+1 0 1 
+0 1 0 
+1 0 0 
+
 
 	PROCESSING BOTH MATRICES
+1 1 0 
+0 1 0 
+1 0 1 
+
+1 0 1 
+0 1 0 
+1 0 0 
+
+2 1 1 
+0 2 0 
+2 0 1 
+
 
 
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING SECOND MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING BOTH MATRICES
+1 0 1 0 
+1 0 0 0 
+1 0 0 0 
+
+1 0 1 
+1 0 1 
+0 0 0 
+1 1 1 
+
+	Unable to add Matrices: Matrices have different sizes.
 
 
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+	Matrix is reflexive
+	Matrix is symmetric
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+
 
 	PROCESSING SECOND MATRIX
+	Matrix is not reflexive
+	Matrix is symmetric
+1 1 0 0 
+1 0 1 0 
+0 1 0 1 
+0 0 1 1 
+
 
 	PROCESSING BOTH MATRICES
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+
+1 1 0 0 
+1 0 1 0 
+0 1 0 1 
+0 0 1 1 
+
+2 1 0 0 
+1 1 1 0 
+0 1 1 1 
+0 0 1 2 
+
 
 
 PROCESSING A SET OF MATRICES
 
 	PROCESSING FIRST MATRIX
+	Matrix is reflexive
+	Matrix is not symmetric
+1 1 1 1 1 
+0 1 1 1 1 
+0 0 1 1 1 
+0 0 0 1 1 
+0 0 0 0 1 
+
 
 	PROCESSING SECOND MATRIX
+Rows and columns are not equal. Cannot determine reflexive/symmetric.
 
 	PROCESSING BOTH MATRICES
+1 1 1 1 1 
+0 1 1 1 1 
+0 0 1 1 1 
+0 0 0 1 1 
+0 0 0 0 1 
+
+1 1 1 1 0 
+
+	Unable to add Matrices: Matrices have different sizes.
